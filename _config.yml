@@ -1,8 +1,8 @@
-name: Alpha
-description: Alphs template for Jekyll
-baseurl: '/Alpha-Jekyll-Theme'
+name: SCG-AILAB
+description: 서울도시가스 AI선행연구팀 블로그입니다.
+baseurl: ''
 
-url: "http://localhost:4000"
+url:
 
 paginate: 10
 
