@@ -2,7 +2,7 @@ name: SCG-AILAB
 description: 서울도시가스 AI선행연구팀 블로그입니다.
 baseurl: ''
 
-url:
+url: https://scg-ailab.github.io/
 
 paginate: 10
 
